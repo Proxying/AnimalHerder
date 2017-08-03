@@ -1,0 +1,8 @@
+name: AnimalHerders
+version: ${project.version}
+main: uk.co.proxying.animalHerders.AnimalHerders
+authors: [Proxying]
+description: Adds "Herders" which protect nearby enemies from the culling.
+commands:
+    testspawn:
+      description: Tests spawning.
